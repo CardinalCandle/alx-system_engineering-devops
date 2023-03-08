@@ -1,2 +1,2 @@
 #!/bin/bash
-cp $(ls . | grep -E [A-Z]) /tmp/u
+cp $(ls . | grep [A-Z]) /tmp/u
